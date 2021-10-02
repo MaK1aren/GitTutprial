@@ -1,1 +1,1 @@
-# GitTutprial
+# GitTutorial
